@@ -35,8 +35,8 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada 
 
 🧑‍💻 Carreira:
 
-Atualmente estou trabalhando na Sinape Sinalização Viaria coma a parte de Analise de Dados, aonde trabalho com, Power BI, Python, BigQuery, SQL e Banco de Dados.
-Pretendo me aprofundar mais na parte de Dados e futuramente começar uma pós em CyberSecurity.
+Atualmente estou trabalhando na Sinape Sinalização Viaria com a parte de Analise de Dados, aonde trabalho com, Power BI, Python, BigQuery, SQL e Banco de Dados.
+Pretendo me aprofundar muito mais na parte de Dados e futuramente começar uma pós em CyberSecurity.
 
 
 <p >
