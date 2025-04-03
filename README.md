@@ -1,6 +1,6 @@
-(((((((((((((((((Gabriel Leite))))))))))))))))))))&show_icons=true&count_private=true&hide_border=true&title_color=F724A9&icon_color=4B0082&text_color=FFFAFA&bg_color=0d1117"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Hitler+Fagundes;Tenho+19+anos;Curso+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Leite;Tenho+20+anos;Curso+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
 - 🔭 Cursando Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me pelo email : gabrielestefanoleite01@gmail.com
@@ -18,7 +18,7 @@
 
 ## Conecte-se comigo:
 <p align="left">
-<a href="https://www.instagram.com/hfagundesz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hfagundes" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gabriel_leiiite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Gabriel Leite" height="30" width="40" /></a>
 </p>
 
 
