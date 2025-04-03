@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Leite;Tenho+20+anos;Curso+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
-- 🔭 Cursando Analise e Desenvolvimento de Sistemas
+- 🔭 4º Semestre de Analise e Desenvolvimento de Sistemas
 - 📫 Contate-me pelo email : gabrielestefanoleite01@gmail.com
 
 
@@ -34,6 +34,12 @@ Expandir minha compreensão em desenvolvimento de software.
 Colaborar em projetos de código aberto.
 Contribuir para a comunidade de desenvolvedores.
 Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada de aprendizado! Estou sempre aberto a colaborações e feedback construtivo. 😊
+
+
+🧑‍💻 Carreira:
+
+Atualmente estou trabalhando na Sinape Sinalização Viaria coma a parte de Analise de Dados, aonde trabalho com, Power BI, Python, BigQuery, SQL e Banco de Dados.
+Pretendo me aprofundar mais na parte de Dados e futuramente começar uma pós em CyberSecurity.
 
 
 <p >
