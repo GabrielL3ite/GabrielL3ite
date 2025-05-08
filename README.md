@@ -13,7 +13,7 @@
 ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![SQL](https://img.icons8.com/fluency/48/000000/sql.png)
-![Google BigQuery](https://icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png)
+<img src="https://icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="48" height="48"/>
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ---
