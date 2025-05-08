@@ -26,9 +26,8 @@
 ---
 
 ## Conecte-se comigo:
-<p align="left">
-<a href="https://www.instagram.com/gabriel_leiiite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GabrielL3ite" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielestefanoleite) 
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_leiiite/) 
 
 ---
 
