@@ -6,19 +6,31 @@
 * 🧑‍💻 Analista de Dados da Sinape Sinalização Viária
 * 📫 Contate-me pelo email : gabrielestefanoleite01@gmail.com
 
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
+![SQL](https://img.icons8.com/fluency/48/000000/sql.png)
+![Google BigQuery](https://icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+
+---
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielL3ite&show_icons=true&count_private=true&hide_border=true&title_color=F724A9&icon_color=4B0082&text_color=FFFAFA&bg_color=0d1117"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielL3ite&layout=compact&hide_border=true&title_color=F724A9&text_color=FFFAFA&bg_color=0d1117" />
 </div>
 
+---
 
 ## Conecte-se comigo:
 <p align="left">
 <a href="https://www.instagram.com/gabriel_leiiite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="GabrielL3ite" height="30" width="40" /></a>
 </p>
 
-
+---
 
   📚 Aprendizado Contínuo:
 
