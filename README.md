@@ -2,19 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+Leite;Tenho+20+anos;Formado+em+Análise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
 
-* 🔭 Superior em Analise e Desenvolvimento de Sistemas
+* 🎓 Superior em Analise e Desenvolvimento de Sistemas
 * 🧑‍💻 Analista de Dados da Sinape Sinalização Viária
 * 📫 Contate-me pelo email : gabrielestefanoleite01@gmail.com
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## Tecnologias e linguagens 💻
 
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)
-![Python](https://img.icons8.com/color/48/000000/python--v1.png)
-![SQL](https://img.icons8.com/fluency/48/000000/sql.png)
-<img src="https://icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" width="48" height="48"/>
-![Git](https://img.icons8.com/color/48/000000/git.png)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,cs,java,py)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,visualstudio,postman)](https://skillicons.dev)
 
 ---
 
